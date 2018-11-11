@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651615025945",
+    "firebase_url": "https://malayalam-stickers-64202.firebaseio.com",
+    "project_id": "malayalam-stickers-64202",
+    "storage_bucket": "malayalam-stickers-64202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651615025945:android:48ed0279435c6a18",
+        "android_client_info": {
+          "package_name": "com.stacksberry.malastickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651615025945-partubccnvs066l57murq8kohflaogd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8TlAHz9QoKSXih-jXiAhV25bG4wYm4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
