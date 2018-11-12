@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "651615025945-v2ug6gmcc4gc6nqa5uti4fr662hq152a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stacksberry.malastickers",
+            "certificate_hash": "048ed2a58bf84e4575c2c0b753b4933addd13169"
+          }
+        },
+        {
           "client_id": "651615025945-partubccnvs066l57murq8kohflaogd5.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,13 +37,19 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651615025945-partubccnvs066l57murq8kohflaogd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-5520803721516592~6168731104"
     }
   ],
   "configuration_version": "1"
